@@ -12,3 +12,6 @@
     const hero = (bullets, dragons) => (bullets / 2 >= dragons) ? true : false;
 
     console.log(hero(123123, 1))
+    console.log(10, 5)
+    console.log(2, 8)
+    console.log(20, 4)
