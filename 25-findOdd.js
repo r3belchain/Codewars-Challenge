@@ -19,7 +19,7 @@
 // }
 
 
-// Alternarive Solution
+// Alternarive Solution, Clever.
 const findOdd = (xs) => xs.reduce((a, b) => a ^ b);
 
 
